@@ -17,6 +17,12 @@ accessModel:
 image: https://valley.com/favicon.ico
 tags:
   - Banking
+  - Financial-Services
+  - Regional Bank
+  - Commercial Banking
+  - Consumer Banking
+tags_raw:
+  - Banking
   - Financial Services
   - Regional Bank
   - Commercial Banking
