@@ -52,3 +52,5 @@ common:
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
+x-parent: valley-national
+x-relationship: product
